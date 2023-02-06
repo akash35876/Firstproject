@@ -10,7 +10,9 @@ System.out.println("Akash");
 	public static void main(String[] args) {
 		
 		int b=12;
+
 		int c=11;
+
 		
 		Exception a = new Exception();
 		
