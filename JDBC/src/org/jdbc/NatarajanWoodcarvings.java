@@ -35,7 +35,7 @@ public class NatarajanWoodcarvings {
 		}
 		
 		result.close();
-		System.out.println("");
+		System.out.println("Hello World");
 	}
 
 }
